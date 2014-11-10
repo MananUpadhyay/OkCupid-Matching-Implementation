@@ -8,7 +8,7 @@ Compiling Instructions:
 -----------------------
 
 The Java JSON library json.org is required as a dependency in compiling and execution. 
-The library is available at www.json.org (Included in the zip)
+The library is available at www.json.org
 
 javac -classpath json.jar:. OkCupid.java
 
