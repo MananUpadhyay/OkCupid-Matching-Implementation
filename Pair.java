@@ -1,3 +1,10 @@
+/**
+ * 
+ * Represents a pair of Profiles of two different individuals.
+ * Used as a Key in HashMap where the Value is the associated match score of the Profile pair.
+ * 
+ * /
+
 class Pair {
 	public int idA;
 	public int idB;
